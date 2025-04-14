@@ -1,1 +1,1 @@
-# All of the machine learning google colabs I will be using
+# All of the machine learning Google Colabs I will be using
